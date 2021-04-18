@@ -1,0 +1,11 @@
+{
+	id: 122324,
+	"name": "Aditya Dubey",
+	"class": 10,
+	"subjects": [
+		"Maths",
+		"English",
+		"Science"
+	],
+	"email": "aadidubey7@gmail.com"
+}
